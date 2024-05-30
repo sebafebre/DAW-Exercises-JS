@@ -19,4 +19,4 @@ console.log('La union de string1 y string2 es:', concatenacion);
 let string3 = "Programación";
 let string4 = "JavaScript";
 let sumaLongitud = string3.length + string4.length;
-console.log('La suma de la longitud de string3 y string4 es:', sumaLargos);
+console.log('La suma de la longitud de string3 y string4 es:', sumaLongitud);
